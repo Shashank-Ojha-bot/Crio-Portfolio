@@ -1,4 +1,4 @@
-# Crio-Portfolio
+# Crio-Portfolio  *Link in about section*
 
 *Used Gatsby framework*
 
